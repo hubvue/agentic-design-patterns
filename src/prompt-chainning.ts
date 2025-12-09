@@ -1,3 +1,6 @@
+/**
+ * 提示链模式
+ */
 import { callLLMClient } from './client.js'
 
 const readPackageAgent = async () => {
